@@ -38,7 +38,7 @@ function play(game: {
     title: string;
     publisher: string;
     launch?: string | Date;
-}): void{
+}): void {
     // runs the game
     console.log(game);
 }
